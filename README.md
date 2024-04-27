@@ -26,3 +26,10 @@
 9. **Styling**: 
    - The `TextStyle` for the task names is set to have a larger font size (27) to make them more prominent.
    - Background images for each tab are conditionally displayed using `Image.asset` inside the `Stack`.
+  
+   - ![s3](https://github.com/Nisha2304tyagi/task-manager-using-flutter/assets/120704195/a4368fb0-8256-4470-82ec-8aaec8913824)
+   - ![s2](https://github.com/Nisha2304tyagi/task-manager-using-flutter/assets/120704195/367d0d48-091d-4612-8442-2134434feedf)
+   - ![S1](https://github.com/Nisha2304tyagi/task-manager-using-flutter/assets/120704195/4043b48d-ed83-4afc-81eb-7d7429a8c64a)
+
+
+
